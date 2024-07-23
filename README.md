@@ -1,2 +1,5 @@
 #include<iostream>
-usinf namespace std;
+
+using namespace std;
+
+devOps
